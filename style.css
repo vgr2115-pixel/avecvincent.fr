@@ -388,3 +388,5 @@ details[data-disclosure-state=closing]:not(.course-item)>summary:after{content:"
   .page-home .budget-more{margin-top:6px}
   .page-home>.hero-actions-section{padding-top:0;padding-bottom:88px}
 }
+.hero-proof{margin-top:16px;font-size:.88rem;line-height:1.6;color:var(--ink)}
+.hero-proof strong{color:var(--blue);font-weight:650}
